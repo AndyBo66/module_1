@@ -1,3 +1,3 @@
 # module_1
-ITMO. Module №1
+ITMO.
 Домашние задания по курсу Python для анализа данных
