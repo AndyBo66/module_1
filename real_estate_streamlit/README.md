@@ -10,7 +10,7 @@ real_estate_streamlit/
 ├── data/
 │   └── realty_data.csv
 ├── model/
-│   ├── real_estate_model.joblib   # создаётся после обучения
+│   ├── real_estate_model.pkl   # создаётся после обучения
 │   └── model_info.json            # создаётся после обучения
 ├── train.py
 ├── app.py
