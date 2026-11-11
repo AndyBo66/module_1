@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+/data/realty_data.csv
+/model/real_estate_model.joblib
+/model/real_estate_model.pkl
